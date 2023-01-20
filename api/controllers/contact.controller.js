@@ -1,5 +1,6 @@
 // contactController.js
-// Import contact model
+// Import contact model 
+// new coment added
 Contact = require("../models/contact.model");
 
 exports.index = function (req, res) {
